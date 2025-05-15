@@ -1,0 +1,1767 @@
+[
+  {
+    "name": "Balsamic Vinaigrette",
+    "amount_Recipe_Makes": {
+      "amount": 183.85,
+      "unit": "oz"
+    },
+    "prep_time": null,
+    "cook_time": null,
+    "instructions": null,
+    "category": "Condiment",
+    "ingredients": {
+      "extra virgin olive oil": { "amount": 46.75, "unit": "oz" },
+      "balsamic vinegar":        { "amount": 38.55, "unit": "oz" },
+      "90%/10% oil":             { "amount": 58.65, "unit": "oz" },
+      "salt":                    { "amount": 2,     "unit": "tbsp" },
+      "pepper":                  { "amount": 2,     "unit": "tbsp" },
+      "sugar":                   { "amount": 4,     "unit": "tbsp" },
+      "oregano":                 { "amount": 2,     "unit": "tbsp" },
+      "basil":                   { "amount": 2,     "unit": "tbsp" },
+      "garlic salt":             { "amount": 2,     "unit": "tbsp" },
+      "hot pepper":              { "amount": 2,     "unit": "tbsp" },
+      "egg":                     { "amount": 4,     "unit": "each" }
+    }
+  },
+  {
+    "name": "House Oil",
+    "amount_Recipe_Makes": {
+      "amount": 164,
+      "unit": "oz"
+    },
+    "prep_time": null,
+    "cook_time": null,
+    "instructions": null,
+    "category": "Condiment",
+    "ingredients": {
+      "extra virgin olive oil": { "amount": 46.75, "unit": "oz" },
+      "red wine vinegar":       { "amount": 56.55, "unit": "oz" },
+      "90%/10% oil":            { "amount": 58.65, "unit": "oz" },
+      "salt":                   { "amount": 2,     "unit": "tbsp" },
+      "pepper":                 { "amount": 2,     "unit": "tbsp" },
+      "sugar":                  { "amount": 2,     "unit": "tbsp" },
+      "oregano":                { "amount": 2,     "unit": "tbsp" },
+      "basil":                  { "amount": 2,     "unit": "tbsp" },
+      "hot pepper":             { "amount": 1,     "unit": "tbsp" },
+      "egg":                    { "amount": 4,     "unit": "each" }
+    }
+  },
+  {
+    "name": "Beer Cheese",
+    "amount_Recipe_Makes": null,
+    "prep_time": null,
+    "cook_time": null,
+    "instructions": null,
+    "category": "Appetizer",
+    "ingredients": {
+      "heavy cream":       { "amount": 2,    "unit": "qt" },
+      "beer":              { "amount": 3,    "unit": "qt" },
+      "grated parmesan":   { "amount": 10,   "unit": "oz" },
+      "yellow cheddar":    { "amount": 2,    "unit": "lb" },
+      "queso blanco":      { "amount": 2,    "unit": "cup" },
+      "dried chive":       { "amount": 0.25, "unit": "oz" }
+    }
+  },
+  {
+    "name": "Buff Chix Chz Stk",
+    "amount_Recipe_Makes": null,
+    "prep_time": null,
+    "cook_time": null,
+    "instructions": null,
+    "category": "Handhelds",
+    "ingredients": {
+      "bun":           { "amount": 1,   "unit": "each" },
+      "chix pattie":   { "amount": 2,   "unit": "each" },
+      "amer chz":      { "amount": 2,   "unit": "oz"   },
+      "hot/mild sauce":{ "amount": 2.5, "unit": "oz"   },
+      "lettuce":       { "amount": 1.5, "unit": "oz"   },
+      "tomato":        { "amount": 2,   "unit": "oz"   },
+      "ranch/bl chz":  { "amount": 2.5, "unit": "oz"   }
+    }
+  },
+  {
+    "name": "Chix Bacon Provolone",
+    "amount_Recipe_Makes": null,
+    "prep_time": null,
+    "cook_time": null,
+    "instructions": null,
+    "category": "Handhelds",
+    "ingredients": {
+      "bun":             { "amount": 1,   "unit": "each" },
+      "chix":            { "amount": 5,   "unit": "oz"   },
+      "bacon":           { "amount": 1,   "unit": "oz"   },
+      "provolone chz":   { "amount": 2,   "unit": "oz"   },
+      "ranch":           { "amount": 2,   "unit": "oz"   },
+      "mayo":            { "amount": 1.5, "unit": "oz"   },
+      "lettuce":         { "amount": 1.5, "unit": "oz"   },
+      "tomato":          { "amount": 2,   "unit": "oz"   },
+      "onion":           { "amount": 0.75,"unit": "oz"   },
+      "house pepper":   { "amount": 1.5, "unit": "oz"   },
+      "house oil":      { "amount": 0.5, "unit": "oz"   }
+    }
+  },
+  {
+    "name": "Breaded Chicken",
+    "amount_Recipe_Makes": {
+      "amount": 1,
+      "unit": "container"
+    },
+    "prep_time": null,
+    "cook_time": null,
+    "instructions": null,
+    "category": "Fried Foods",
+    "ingredients": {
+      "chix breast":         { "amount": 1,   "unit": "case" },
+      "egg":                 { "amount": 12,  "unit": "each" },
+      "italian bread crumb": { "amount": 2,   "unit": "lb"   }
+    }
+  },
+  {
+    "name": "Marinated Chicken Breast",
+    "amount_Recipe_Makes": {
+      "amount": 1,
+      "unit": "container"
+    },
+    "prep_time": null,
+    "cook_time": null,
+    "instructions": null,
+    "category": "Entree",
+    "ingredients": {
+      "chix breast":      { "amount": 1,  "unit": "case" },
+      "lemon juice":      { "amount": 4,  "unit": "oz"   },
+      "10% oil":          { "amount": 12, "unit": "oz"   },
+      "sazonador":        { "amount": 2,  "unit": "oz"   },
+      "minced garlic":    { "amount": 8,  "unit": "oz"   },
+      "crushed red pepper":{ "amount": 1, "unit": "oz"   }
+    }
+  },
+  {
+    "name": "Broiled Haddock",
+    "amount_Recipe_Makes": null,
+    "prep_time": null,
+    "cook_time": null,
+    "instructions": null,
+    "category": "Seafood",
+    "ingredients": {
+      "butter oil":    { "amount": 1, "unit": "oz" },
+      "haddock filet":{ "amount": 8, "unit": "oz" },
+      "thyme":         { "amount": 1, "unit": "oz" },
+      "white wine":    { "amount": 1, "unit": "oz" },
+      "chix stock":    { "amount": 1, "unit": "oz" }
+    }
+  },
+  {
+    "name": "Fried Haddock",
+    "amount_Recipe_Makes": null,
+    "prep_time": null,
+    "cook_time": null,
+    "instructions": null,
+    "category": "Fried Foods",
+    "ingredients": {
+      "haddock filet":      { "amount": 8, "unit": "oz" },
+      "egg":                { "amount": 1, "unit": "each" },
+      "italian bread crumb":{ "amount": 2, "unit": "oz" },
+      "panko":              { "amount": 1, "unit": "oz" }
+    }
+  },
+  {
+    "name": "Broiled Seafood Platter",
+    "amount_Recipe_Makes": null,
+    "prep_time": null,
+    "cook_time": null,
+    "instructions": null,
+    "category": "Seafood",
+    "ingredients": {
+      "butter oil": { "amount": 1, "unit": "oz" },
+      "shrimp":     { "amount": 3, "unit": "oz" },
+      "scallop":    { "amount": 3, "unit": "oz" },
+      "crab cake":  { "amount": 4, "unit": "oz" },
+      "haddock":    { "amount": 4, "unit": "oz" },
+      "white wine": { "amount": 1, "unit": "oz" },
+      "lemon slice":{ "amount": 1.5,"unit": "oz" }
+    }
+  },
+  {
+    "name": "Crab Stuffed Flounder",
+    "amount_Recipe_Makes": null,
+    "prep_time": null,
+    "cook_time": null,
+    "instructions": null,
+    "category": "Seafood",
+    "ingredients": {
+      "butter oil": { "amount": 1, "unit": "oz" },
+      "flounder":   { "amount": 8, "unit": "oz" },
+      "crab cake":  { "amount": 4, "unit": "oz" },
+      "white wine": { "amount": 1, "unit": "oz" },
+      "lemon slice":{ "amount": 1.5,"unit": "oz" }
+    }
+  },
+  {
+    "name": "Bread Pizza Dough",
+    "amount_Recipe_Makes": {
+      "amount": 504,
+      "unit": "oz"
+    },
+    "prep_time": null,
+    "cook_time": null,
+    "instructions": null,
+    "category": "Pizza",
+    "ingredients": {
+      "water":    { "amount": 6,    "unit": "gal" },
+      "yeast":    { "amount": 6,    "unit": "oz"  },
+      "sugar":    { "amount": 8,    "unit": "oz"  },
+      "salt":     { "amount": 4,    "unit": "oz"  },
+      "oil":      { "amount": 12,   "unit": "oz"  },
+      "semolina": { "amount": 1.5,  "unit": "scoops", "converted": { "amount": 57,  "unit": "oz"  } },
+      "flour":    { "amount": 12,   "unit": "scoops", "converted": { "amount": 456, "unit": "oz"  } }
+    }
+  },
+  {
+    "name": "Breaded Mozzarella",
+    "amount_Recipe_Makes": null,
+    "prep_time": null,
+    "cook_time": null,
+    "instructions": null,
+    "category": "Fried Foods",
+    "ingredients": {
+      "fresh mozzarella":     { "amount": 5,   "unit": "oz" },
+      "egg":                   { "amount": 1,   "unit": "oz" },
+      "bread crumbs":          { "amount": 1,   "unit": "oz" },
+      "panko":                 { "amount": 1,   "unit": "oz" }
+    }
+  },
+  {
+    "name": "Seafood Mac",
+    "amount_Recipe_Makes": null,
+    "prep_time": null,
+    "cook_time": null,
+    "instructions": null,
+    "category": "Pasta",
+    "ingredients": {
+      "butter oil":       { "amount": 1, "unit": "oz" },
+      "shrimp":           { "amount": 3, "unit": "oz" },
+      "scallop":          { "amount": 3, "unit": "oz" },
+      "broccoli":         { "amount": 2, "unit": "oz" },
+      "white cheddar":    { "amount": 4, "unit": "oz" },
+      "heavy cream":      { "amount": 6, "unit": "oz" },
+      "finishing butter": { "amount": 1, "unit": "oz" },
+      "bread crumbs":     { "amount": 1, "unit": "oz" },
+      "penne":            { "amount": 8, "unit": "oz" }
+    }
+  },
+  {
+    "name": "Bruschetta",
+    "amount_Recipe_Makes": null,
+    "prep_time": null,
+    "cook_time": null,
+    "instructions": null,
+    "category": "Appetizer",
+    "ingredients": {
+      "tomatoes":       { "amount": 10,    "unit": "each" },
+      "basil":          { "amount": 2,     "unit": "sprigs" },
+      "balsamic glaze": { "amount": 4,     "unit": "oz"     },
+      "balsamic vinegar":{ "amount": 4,    "unit": "oz"     },
+      "olive oil":      { "amount": 8,     "unit": "oz"     },
+      "garlic":         { "amount": 8,     "unit": "cloves" },
+      "lettuce leaves": { "amount": 2,     "unit": "leaves" }
+    }
+  },
+  {
+    "name": "Mozzarella Caprese",
+    "amount_Recipe_Makes": null,
+    "prep_time": null,
+    "cook_time": null,
+    "instructions": null,
+    "category": "Appetizer",
+    "ingredients": {
+      "tomato":        { "amount": 1, "unit": "each" },
+      "fresh mozz":    { "amount": 8, "unit": "oz"   },
+      "basil":         { "amount": 4, "unit": "leaves" },
+      "pesto":         { "amount": 1, "unit": "oz"   },
+      "balsamic glaze":{ "amount": 1, "unit": "oz"   },
+      "lettuce leaves":{ "amount": 2, "unit": "leaves" }
+    }
+  },
+  {
+    "name": "BLT",
+    "amount_Recipe_Makes": null,
+    "prep_time": null,
+    "cook_time": null,
+    "instructions": null,
+    "category": "Handhelds",
+    "ingredients": {
+      "bun":    { "amount": 1,   "unit": "each" },
+      "bacon":  { "amount": 4,   "unit": "oz"   },
+      "mayo":   { "amount": 1.5, "unit": "oz"   },
+      "lettuce":{ "amount": 2,   "unit": "oz"   },
+      "tomato": { "amount": 3,   "unit": "oz"   }
+    }
+  },
+  {
+    "name": "Meatball sub",
+    "amount_Recipe_Makes": null,
+    "prep_time": null,
+    "cook_time": null,
+    "instructions": null,
+    "category": "Handhelds",
+    "ingredients": {
+      "bun":           { "amount": 1, "unit": "each" },
+      "meatball":      { "amount": 3, "unit": "each", "converted": { "amount": 4.5, "unit": "oz" } },
+      "shredded mozz": { "amount": 2, "unit": "oz"   },
+      "sauce":         { "amount": 4, "unit": "oz"   }
+    }
+  },
+  {
+    "name": "Capresa Sandwich",
+    "amount_Recipe_Makes": null,
+    "prep_time": null,
+    "cook_time": null,
+    "instructions": null,
+    "category": "Handhelds",
+    "ingredients": {
+      "bun":               { "amount": 1,   "unit": "each" },
+      "tomato":            { "amount": 4,   "unit": "oz"   },
+      "fresh mozzarella":  { "amount": 6,   "unit": "oz"   },
+      "pesto":             { "amount": 1.5, "unit": "oz"   },
+      "balsamic glaze":    { "amount": 0.75,"unit": "oz"   },
+      "lettuce":           { "amount": 2,   "unit": "oz"   },
+      "house oil":         { "amount": 0.5, "unit": "oz"   }
+    }
+  },
+  {
+    "name": "Sauteed Veggie Sandl",
+    "amount_Recipe_Makes": null,
+    "prep_time": null,
+    "cook_time": null,
+    "instructions": null,
+    "category": "Handhelds",
+    "ingredients": {
+      "bun":               { "amount": 1,    "unit": "each" },
+      "mayo":              { "amount": 1.5,  "unit": "oz"   },
+      "house oil":         { "amount": 0.5,  "unit": "oz"   },
+      "mushroom":          { "amount": 2,    "unit": "oz"   },
+      "onion":             { "amount": 2,    "unit": "oz"   },
+      "cherry tomato":     { "amount": 2,    "unit": "oz"   },
+      "roasted red pepper":{ "amount": 1,    "unit": "oz"   },
+      "swt pepper":        { "amount": 2,    "unit": "oz"   },
+      "fresh mozzarella":  { "amount": 4.5,  "unit": "oz"   }
+    }
+  },
+  {
+    "name": "Chz Burger",
+    "amount_Recipe_Makes": null,
+    "prep_time": null,
+    "cook_time": null,
+    "instructions": null,
+    "category": "Handhelds",
+    "ingredients": {
+      "roll":               { "amount": 1,   "unit": "each" },
+      "burger":             { "amount": 1,   "unit": "each" },
+      "american cheese":    { "amount": 2,   "unit": "oz"   },
+      "mayo":               { "amount": 1,   "unit": "oz"   },
+      "lettuce":            { "amount": 1,   "unit": "oz"   },
+      "tomato":             { "amount": 1.5, "unit": "oz"   },
+      "onion":              { "amount": 0.75,"unit": "oz"   }
+    }
+  },
+  {
+    "name": "Chz Stlk pizza",
+    "amount_Recipe_Makes": null,
+    "prep_time": null,
+    "cook_time": null,
+    "instructions": null,
+    "category": "Pizza",
+    "ingredients": {
+      "dough":      { "amount": "16 - 8",  "unit": "oz"   },
+      "stlk patty": { "amount": "3 - 1.5","unit": "each"},
+      "pizza sauce":{ "amount": "8 - 4",   "unit": "oz"   },
+      "onion":      { "amount": "2 - 1",   "unit": "oz"   },
+      "mushroom":   { "amount": "2 - 1",   "unit": "oz"   },
+      "swt pepper": { "amount": "2 - 1",   "unit": "oz"   },
+      "mozz chz":   { "amount": "16 - 8",  "unit": "oz"   }
+    }
+  },
+  {
+    "name": "Hawaiian Pizza",
+    "amount_Recipe_Makes": null,
+    "prep_time": null,
+    "cook_time": null,
+    "instructions": null,
+    "category": "Pizza",
+    "ingredients": {
+      "dough":        { "amount": "16 - 8","unit": "oz"       },
+      "pizza sauce":  { "amount": "8 - 4",  "unit": "oz"       },
+      "ham":          { "amount": "8 - 4",  "unit": "oz"       },
+      "pineapple":    { "amount": "2 - 1",  "unit": "container"},
+      "mozz chz":     { "amount": "16 - 8", "unit": "oz"       }
+    }
+  },
+  {
+    "name": "Chz Pizza",
+    "amount_Recipe_Makes": null,
+    "prep_time": null,
+    "cook_time": null,
+    "instructions": null,
+    "category": "Pizza",
+    "ingredients": {
+      "dough":       { "amount": "16 - 8","unit": "oz" },
+      "sauce":       { "amount": "8 - 4",  "unit": "oz" },
+      "mozz cheese": { "amount": "16 - 8","unit": "oz" }
+    }
+  },
+  {
+    "name": "Cauliflower Crust",
+    "amount_Recipe_Makes": null,
+    "prep_time": null,
+    "cook_time": null,
+    "instructions": null,
+    "category": "Pizza",
+    "ingredients": {
+      "cauliflower crust": { "amount": 1, "unit": "each" },
+      "pizza sauce":       { "amount": 4, "unit": "oz"   },
+      "cheese":            { "amount": 8, "unit": "oz"   }
+    }
+  },
+  {
+    "name": "Calzone",
+    "amount_Recipe_Makes": null,
+    "prep_time": null,
+    "cook_time": null,
+    "instructions": null,
+    "category": "Pizza",
+    "ingredients": {
+      "dough":   { "amount": 8, "unit": "oz" },
+      "ham":     { "amount": 6, "unit": "oz" },
+      "ricotta": { "amount": 4, "unit": "oz" },
+      "mozz":    { "amount": 8, "unit": "oz" }
+    }
+  },
+  {
+    "name": "Godfather Calzone",
+    "amount_Recipe_Makes": null,
+    "prep_time": null,
+    "cook_time": null,
+    "instructions": null,
+    "category": "Pizza",
+    "ingredients": {
+      "dough":     { "amount": 8, "unit": "oz" },
+      "mozz chz":  { "amount": 8, "unit": "oz" },
+      "ricotta":   { "amount": 4, "unit": "oz" },
+      "ham":       { "amount": 6, "unit": "oz" },
+      "salami":    { "amount": 2, "unit": "oz" },
+      "capicola":  { "amount": 2, "unit": "oz" }
+    }
+  },
+  {
+    "name": "Chix Basket",
+    "amount_Recipe_Makes": null,
+    "prep_time": null,
+    "cook_time": null,
+    "instructions": null,
+    "category": "Fried Foods",
+    "ingredients": {
+      "chix finger": { "amount": "~8",  "unit": "oz" },
+      "ff":          { "amount": "~12", "unit": "oz" }
+    }
+  },
+  {
+    "name": "Shrimp Basket",
+    "amount_Recipe_Makes": null,
+    "prep_time": null,
+    "cook_time": null,
+    "instructions": null,
+    "category": "Fried Foods",
+    "ingredients": {
+      "breaded shrimp": { "amount": 8,    "unit": "each" },
+      "ff":              { "amount": "~12","unit": "oz"   }
+    }
+  },
+  {
+    "name": "Chix/Stlk Salad",
+    "amount_Recipe_Makes": null,
+    "prep_time": null,
+    "cook_time": null,
+    "instructions": null,
+    "category": "Salad",
+    "ingredients": {
+      "lettuce":        { "amount": 6, "unit": "oz"   },
+      "stk/chix":       { "amount": 6, "unit": "oz"   },
+      "tomato":         { "amount": 2, "unit": "oz"   },
+      "onion":          { "amount": 1, "unit": "oz"   },
+      "cucumber":       { "amount": 2, "unit": "oz"   },
+      "mozz chz":       { "amount": 3, "unit": "oz"   },
+      "FP":             { "amount": 2, "unit": "oz"   },
+      "stuffed pepper": { "amount": 1, "unit": "each"}
+    }
+  },
+  {
+    "name": "Buff chix Salad",
+    "amount_Recipe_Makes": null,
+    "prep_time": null,
+    "cook_time": null,
+    "instructions": null,
+    "category": "Salad",
+    "ingredients": {
+      "lettuce":        { "amount": 6, "unit": "oz" },
+      "chix":           { "amount": 6, "unit": "oz" },
+      "hot sauce":      { "amount": 2, "unit": "oz" },
+      "tomato":         { "amount": 2, "unit": "oz" },
+      "onion":          { "amount": 1, "unit": "oz" },
+      "cucumber":       { "amount": 2, "unit": "oz" },
+      "ff":             { "amount": 2, "unit": "oz" },
+      "mozz chz":       { "amount": 3, "unit": "oz" },
+      "stuffed pepper": { "amount": 1, "unit": "each"}
+    }
+  },
+  {
+    "name": "Chesapeake ravioli",
+    "amount_Recipe_Makes": null,
+    "prep_time": null,
+    "cook_time": null,
+    "instructions": null,
+    "category": "Pasta",
+    "ingredients": {
+      "cheese ravioli": { "amount": 4.50, "unit": "oz" },
+      "corn":           { "amount": 2.55, "unit": "oz" },
+      "roasted pepper": { "amount": 4.65, "unit": "oz" },
+      "lobster sauce":  { "amount": 4.00, "unit": "oz" },
+      "crab cake":      { "amount": 4.20, "unit": "oz" }
+    }
+  },
+  {
+    "name": "Lobster ravioli",
+    "amount_Recipe_Makes": null,
+    "prep_time": null,
+    "cook_time": null,
+    "instructions": null,
+    "category": "Pasta",
+    "ingredients": {
+      "lobster ravioli": { "amount": 5.60, "unit": "oz" },
+      "lobster sauce":   { "amount": 5.00, "unit": "oz" },
+      "heavy cream":     { "amount": 3.50, "unit": "oz" }
+    }
+  },
+  {
+    "name": "Crab Alfredo",
+    "amount_Recipe_Makes": null,
+    "prep_time": null,
+    "cook_time": null,
+    "instructions": null,
+    "category": "Pasta",
+    "ingredients": {
+      "crab cake":                { "amount": 4.20, "unit": "oz" },
+      "mushrooms":                { "amount": 3.55, "unit": "oz" },
+      "asparagus":                { "amount": 2.40, "unit": "oz" },
+      "liquid butter":            { "amount": 1.50, "unit": "oz" },
+      "shaved parmesan":          { "amount": 1.70, "unit": "oz" },
+      "heavy cream":              { "amount": 8.00, "unit": "oz" },
+      "parsley":                  { "amount": 0.50, "unit": "oz" },
+      "shaved garlic":            { "amount": 0.70, "unit": "oz" },
+      "sarzonade and salt mix":   { "amount": 0.10, "unit": "oz" }
+    }
+  },
+  {
+    "name": "Linguine Louisiana",
+    "amount_Recipe_Makes": null,
+    "prep_time": null,
+    "cook_time": null,
+    "instructions": null,
+    "category": "Pasta",
+    "ingredients": {
+      "lobster sauce":           { "amount": 6.00, "unit": "oz"  },
+      "shrimp":                  { "amount": 2.60, "unit": "oz"  },
+      "scallops":                { "amount": 3.30, "unit": "oz"  },
+      "shaved garlic":           { "amount": 0.70, "unit": "oz"  },
+      "sarzonade and salt mix":  { "amount": 0.10, "unit": "oz"  },
+      "white wine":              { "amount": 1.35, "unit": "oz"  },
+      "chicken stock":           { "amount": 1.50, "unit": "oz"  },
+      "cajun seasoning":         { "amount": 0.15, "unit": "oz"  }
+    }
+  },
+  {
+    "name": "Chicken parmigiana",
+    "amount_Recipe_Makes": null,
+    "prep_time": null,
+    "cook_time": null,
+    "instructions": null,
+    "category": "Pasta",
+    "ingredients": {
+      "breaded chicken":     { "amount": 6.10, "unit": "oz" },
+      "spaghetti":           { "amount": 7.55, "unit": "oz" },
+      "tomato sauce":        { "amount": 9.60, "unit": "oz" },
+      "mozzarella cheese":   { "amount": 2.50, "unit": "oz" }
+    }
+  },
+  {
+    "name": "Penne Vodka",
+    "amount_Recipe_Makes": null,
+    "prep_time": null,
+    "cook_time": null,
+    "instructions": null,
+    "category": "Pasta",
+    "ingredients": {
+      "penne":                  { "amount": 6.25, "unit": "oz" },
+      "ham":                    { "amount": 2.05, "unit": "oz" },
+      "tomato sauce":           { "amount": 6.05, "unit": "oz" },
+      "heavy cream":            { "amount": 5.60, "unit": "oz" },
+      "vodka":                  { "amount": 4.50, "unit": "oz" },
+      "shaved garlic":          { "amount": 0.70, "unit": "oz" },
+      "sarzonade and salt mix": { "amount": 0.10, "unit": "oz" }
+    }
+  },
+  {
+    "name": "Chix Marsala",
+    "amount_Recipe_Makes": null,
+    "prep_time": null,
+    "cook_time": null,
+    "instructions": null,
+    "category": "Entree",
+    "ingredients": {
+      "butter oil":     { "amount": 1.00, "unit": "oz" },
+      "chix breast":    { "amount": 6.00, "unit": "oz" },
+      "mushrooms":      { "amount": 4.00, "unit": "oz" },
+      "marsala wine":   { "amount": 6.00, "unit": "oz" },
+      "heavy cream":    { "amount": 4.00, "unit": "oz" },
+      "finish butter":  { "amount": 1.00, "unit": "oz" },
+      "parsley":        { "amount": 0.10, "unit": "oz" }
+    }
+  },
+  {
+    "name": "Chix Tuscan",
+    "amount_Recipe_Makes": null,
+    "prep_time": null,
+    "cook_time": null,
+    "instructions": null,
+    "category": "Entree",
+    "ingredients": {
+      "butter oil":         { "amount": 1.00, "unit": "oz" },
+      "muri chix breast":   { "amount": 5.00, "unit": "oz" },
+      "mushroom":           { "amount": 2.00, "unit": "oz" },
+      "roasted red pepper": { "amount": 1.00, "unit": "oz" },
+      "white wine":         { "amount": 4.00, "unit": "oz" },
+      "finish butter":      { "amount": 1.00, "unit": "oz" },
+      "chix stock":         { "amount": 4.00, "unit": "oz" }
+    }
+  },
+  {
+    "name": "Fettuccine Alfredo",
+    "amount_Recipe_Makes": null,
+    "prep_time": null,
+    "cook_time": null,
+    "instructions": null,
+    "category": "Pasta",
+    "ingredients": {
+      "butter oil":      { "amount": 1,   "unit": "oz" },
+      "garlic":          { "amount": 1,   "unit": "oz" },
+      "heavy cream":     { "amount": 6,   "unit": "oz" },
+      "shaved parmesan": { "amount": 3,   "unit": "oz" },
+      "finish butter":   { "amount": 1,   "unit": "oz" },
+      "fettuccine":      { "amount": 8,   "unit": "oz" }
+    }
+  },
+  {
+    "name": "Primavera",
+    "amount_Recipe_Makes": null,
+    "prep_time": null,
+    "cook_time": null,
+    "instructions": null,
+    "category": "Pasta",
+    "ingredients": {
+      "butter oil":    { "amount": 1,   "unit": "oz"   },
+      "carrot":        { "amount": 1,   "unit": "oz"   },
+      "mushroom":      { "amount": 1.5, "unit": "oz"   },
+      "broccoli":      { "amount": 2,   "unit": "oz"   },
+      "onion":         { "amount": 1.5, "unit": "oz"   },
+      "asparagus":     { "amount": 1,   "unit": "oz"   },
+      "heavy cream":   { "amount": 6,   "unit": "oz"   },
+      "chix stock":    { "amount": 2,   "unit": "oz"   },
+      "finish butter": { "amount": 1,   "unit": "oz"   },
+      "linguine":      { "amount": 8,   "unit": "oz"   }
+    }
+  },
+  {
+    "name": "Fried Mozzarella",
+    "amount_Recipe_Makes": {"amount": 84,"unit": "Slices"},
+    "prep_time": null,
+    "cook_time": null,
+    "instructions": null,
+    "category": "Fried Foods",
+    "ingredients": {
+      "fresh mozzarella":     { "amount": 6,   "unit": "lb"  },
+      "flour":                { "amount": 1.5, "unit": "lb"  },
+      "italian bread crumbs": { "amount": 2.5, "unit": "lb"  },
+      "panko":              { "amount": 1.5, "unit": "lb"  }
+    }
+  },
+  {
+    "name": "Baby Clams/Mussels Appetizer",
+    "amount_Recipe_Makes": null,
+    "prep_time": null,
+    "cook_time": null,
+    "instructions": null,
+    "category": "Seafood",
+    "ingredients": {
+      "mussel/clam":    { "amount": "8 - 10","unit": "oz"   },
+      "lemon slice":    { "amount": 2,        "unit": "each" },
+      "white wine":     { "amount": 4,        "unit": "oz"   },
+      "chix stock":     { "amount": 4,        "unit": "oz"   },
+      "liquid butter":  { "amount": 1,        "unit": "oz"   },
+      "thyme":          { "amount": 3,        "unit": "sprigs"},
+      "sliced garlic":  { "amount": 0.5,      "unit": "oz"   },
+      "crostini":       { "amount": 0.125,    "unit": "loaf" }
+    }
+  },
+  {
+    "name": "Ham & Prov",
+    "amount_Recipe_Makes": null,
+    "prep_time": null,
+    "cook_time": null,
+    "instructions": null,
+    "category": "Handhelds",
+    "ingredients": {
+      "bun":           { "amount": 1,   "unit": "each" },
+      "ham":           { "amount": 6,   "unit": "oz"   },
+      "provolone chz": { "amount": 2,   "unit": "oz"   },
+      "lettuce":       { "amount": 1.5, "unit": "oz"   },
+      "tomato":        { "amount": 2,   "unit": "oz"   },
+      "onion":         { "amount": 0.25,"unit": "oz"   },
+      "house peppers": { "amount": 1.5, "unit": "oz"   },
+      "house oil":     { "amount": 0.5, "unit": "oz"   },
+      "mayo":          { "amount": 1.5, "unit": "oz"   }
+    }
+  },
+  {
+  "name": "Italian",
+  "amount_Recipe_Makes": null,
+  "prep_time": null,
+  "cook_time": null,
+  "instructions": null,
+  "category": "Handhelds",
+  "ingredients": {
+    "bun":            { "amount": 1,   "unit": "each" },
+    "provolone":      { "amount": 2,   "unit": "oz"   },
+    "ham":            { "amount": 3,   "unit": "oz"   },
+    "salami":         { "amount": 2,   "unit": "oz"   },
+    "capicola":       { "amount": 2,   "unit": "oz"   },
+    "mayo":           { "amount": 1.5, "unit": "oz"   },
+    "lettuce":        { "amount": 1.5, "unit": "oz"   },
+    "tomato":         { "amount": 2,   "unit": "oz"   },
+    "onion":          { "amount": 0.75,"unit": "oz"   },
+    "house peppers":  { "amount": 1.5, "unit": "oz"   },
+    "house oil":      { "amount": 0.5, "unit": "oz"   }
+  }
+},
+{
+    "name": "House Salad",
+    "amount_Recipe_Makes": null,
+    "prep_time": null,
+    "cook_time": null,
+    "instructions": null,
+    "category": "Vegetable",
+    "ingredients": {
+      "lettuce mix": { "amount": 3, "unit": "oz" },
+      "tomato":      { "amount": 2, "unit": "oz" },
+      "onion":       { "amount": 1, "unit": "oz" },
+      "cucumber":    { "amount": 2, "unit": "oz" }
+    }
+  },
+  {
+    "name": "Chef Salad",
+    "amount_Recipe_Makes": null,
+    "prep_time": null,
+    "cook_time": null,
+    "instructions": null,
+    "category": "Vegetable",
+    "ingredients": {
+      "lettuce mix":    { "amount": 6, "unit": "oz" },
+      "ham":            { "amount": 2, "unit": "oz" },
+      "salami":         { "amount": 2, "unit": "oz" },
+      "provolone":      { "amount": 4, "unit": "oz" },
+      "tomato":         { "amount": 2, "unit": "oz" },
+      "onion":          { "amount": 1, "unit": "oz" },
+      "cucumber":       { "amount": 2, "unit": "oz" },
+      "stuffed pepper": { "amount": 1, "unit": "each" }
+    }
+  },
+  {
+    "name": "House Peppers",
+    "amount_Recipe_Makes": null,
+    "prep_time": null,
+    "cook_time": null,
+    "instructions": null,
+    "category": "Condiment",
+    "ingredients": {
+      "banana pepper":     { "amount": 2.0, "unit": "gal" },
+      "hot cherry pepper": { "amount": 1.0, "unit": "gal" },
+      "10% oil":           { "amount": 1.5, "unit": "gal" },
+      "olive oil":         { "amount": 0.5, "unit": "gal" },
+      "sugar":             { "amount": 4,   "unit": "oz"  },
+      "salt":              { "amount": 2,   "unit": "oz"  },
+      "basil":             { "amount": 2,   "unit": "oz"  },
+      "oregano":           { "amount": 2,   "unit": "oz"  }
+    }
+  },
+  {
+    "name": "Baby Clams/Mussels",
+    "amount_Recipe_Makes": null,
+    "prep_time": null,
+    "cook_time": null,
+    "instructions": null,
+    "category": "Seafood",
+    "ingredients": {
+      "butter flavored oil": { "amount": 1,   "unit": "oz"      },
+      "clams/mussels":       { "amount": 0.5, "unit": "package" },
+      "white wine":          { "amount": 3,   "unit": "oz"      },
+      "chix stock":          { "amount": 3,   "unit": "oz"      },
+      "lemon":               { "amount": 1,   "unit": "oz"      },
+      "parsley":             { "amount": 1,   "unit": "oz"      },
+      "finish butter":       { "amount": 1,   "unit": "oz"      }
+    }
+  },
+  {
+    "name": "Hox Hot Peppers",
+    "amount_Recipe_Makes": null,
+    "prep_time": null,
+    "cook_time": null,
+    "instructions": null,
+    "category": "Condiment",
+    "ingredients": {
+      "banana pepper":  { "amount": 2.0,  "unit": "gal" },
+      "cherry pepper":  { "amount": 2.0,  "unit": "gal" },
+      "olive oil":      { "amount": 0.75, "unit": "gal" },
+      "10% oil":        { "amount": 0.75, "unit": "gal" },
+      "sugar":          { "amount": 4,    "unit": "oz"  },
+      "garlic cloves":  { "amount": 12,   "unit": "oz"  },
+      "sazonador":      { "amount": 2,    "unit": "oz"  },
+      "oregano":        { "amount": 2,    "unit": "oz"  }
+    }
+  },
+  {
+    "name": "Breaded Buffalo Shrimp",
+    "amount_Recipe_Makes": null,
+    "prep_time": null,
+    "cook_time": null,
+    "instructions": null,
+    "category": "Fried Foods",
+    "ingredients": {
+      "breaded shrimp": { "amount": 6, "unit": "each" },
+      "hot/mild sauce": { "amount": 4, "unit": "oz"   }
+    }
+  },
+  {
+    "name": "Inn Chz Stlk",
+    "amount_Recipe_Makes": null,
+    "prep_time": null,
+    "cook_time": null,
+    "instructions": null,
+    "category": "Handhelds",
+    "ingredients": {
+      "bun":            { "amount": 1,   "unit": "each" },
+      "steak Patties":          { "amount": 2,   "unit": "each" },
+      "american chz":   { "amount": 2,   "unit": "oz"   },
+      "mushroom":       { "amount": 1.5, "unit": "oz"   },
+      "onion":          { "amount": 1.5, "unit": "oz"   },
+      "swt pepper":     { "amount": 1.5, "unit": "oz"   },
+      "mayo":           { "amount": 1.5, "unit": "oz"   },
+      "lettuce":        { "amount": 1,   "unit": "oz"   },
+      "tomato":         { "amount": 2,   "unit": "oz"   },
+      "house peppers":  { "amount": 1.5, "unit": "oz"   },
+      "house oil":      { "amount": 0.5, "unit": "oz"   }
+    }
+  },
+  {
+    "name": "Chz Stlk Plain",
+    "amount_Recipe_Makes": null,
+    "prep_time": null,
+    "cook_time": null,
+    "instructions": null,
+    "category": "Handhelds",
+    "ingredients": {
+      "bun":            { "amount": 1, "unit": "each" },
+      "steak Patties":            { "amount": 3, "unit": "each" },
+      "amer chz":       { "amount": 2, "unit": "oz"   }
+    }
+  },
+  {
+    "name": "Loaded Chips",
+    "amount_Recipe_Makes": null,
+    "prep_time": null,
+    "cook_time": null,
+    "instructions": null,
+    "category": "Fried Foods",
+    "ingredients": {
+      "chips":         { "amount": 4, "unit": "oz"   },
+      "beer cheese":   { "amount": 6, "unit": "oz"   },
+      "bacon":         { "amount": 3, "unit": "each" }
+    }
+  },
+  {
+    "name": "Chip Basket",
+    "amount_Recipe_Makes": null,
+    "prep_time": null,
+    "cook_time": null,
+    "instructions": null,
+    "category": "Fried Foods",
+    "ingredients": {
+      "chips": { "amount": 6, "unit": "oz" }
+    }
+  },
+  {
+    "name": "Loaded FF",
+    "amount_Recipe_Makes": null,
+    "prep_time": null,
+    "cook_time": null,
+    "instructions": null,
+    "category": "Fried Foods",
+    "ingredients": {
+      "french fry":   { "amount": 10, "unit": "oz"   },
+      "beer chz":     { "amount": 6,  "unit": "oz"   },
+      "bacon":        { "amount": 3,  "unit": "each" }
+    }
+  },
+  {
+    "name": "Beer Batter Fry Basket",
+    "amount_Recipe_Makes": null,
+    "prep_time": null,
+    "cook_time": null,
+    "instructions": null,
+    "category": "Fried Foods",
+    "ingredients": {
+      "french fry": { "amount": 12, "unit": "oz" }
+    }
+  },
+  {
+    "name": "Linguine Neptune",
+    "amount_Recipe_Makes": null,
+    "prep_time": null,
+    "cook_time": null,
+    "instructions": null,
+    "category": "Pasta",
+    "ingredients": {
+      "mussels":                  { "amount": 1.25, "unit": "oz" },
+      "clams":                    { "amount": 3.50, "unit": "oz" },
+      "crab cake":                { "amount": 4.20, "unit": "oz" },
+      "liquid butter":            { "amount": 1.50, "unit": "oz" },
+      "shaved garlic":            { "amount": 0.70, "unit": "oz" },
+      "sarzonade and salt mix":   { "amount": 0.10, "unit": "oz" },
+      "scallops":                 { "amount": 2.20, "unit": "oz" },
+      "shrimp":                   { "amount": 2.60, "unit": "oz" },
+      "lobster sauce":            { "amount": 6.00, "unit": "oz" }
+    }
+  },
+{
+  "name": "Lasagna",
+  "amount_Recipe_Makes": {
+    "amount": 48,
+    "unit": "each"
+  },
+  "prep_time": null,
+  "cook_time": null,
+  "instructions": null,
+  "category": "Pasta",
+  "ingredients": {
+    "ground beef":        { "amount": 10, "unit": "lb"         },
+    "pizza sausage":      { "amount":  2, "unit": "lb"         },
+    "lasagna noodles":    { "amount": 5, "unit": "box"        },
+    "pasta sauce":        { "amount":  6, "unit": "qt"         },
+    "ricotta cheese":     { "amount":  4, "unit": "container"  },
+    "dried parsley":      { "amount":  4, "unit": "oz"         },
+    "garlic powder":      { "amount":  2, "unit": "oz"         },
+    "eggs":               { "amount":  4, "unit": "each"      },
+    "grated parmesan":    { "amount": 16, "unit": "oz"         },
+    "shredded mozzarella":{ "amount": 10, "unit": "lb"         }
+  }
+},
+  {
+    "name": "Fettuccine Alfredo",
+    "amount_Recipe_Makes": null,
+    "prep_time": null,
+    "cook_time": null,
+    "instructions": null,
+    "category": "Pasta",
+    "ingredients": {
+      "pasta":                   { "amount":  9.20, "unit": "oz" },
+      "broccoli":                { "amount":  2.95, "unit": "oz" },
+      "heavy cream":             { "amount": 10.20, "unit": "oz" },
+      "shaved garlic":           { "amount":  0.70, "unit": "oz" },
+      "sarzonade and salt mix":  { "amount":  0.15, "unit": "oz" },
+      "shaved parmesan cheese":  { "amount":  1.70, "unit": "oz" }
+    }
+  },
+  {
+    "name": "Lobster Sauce",
+    "amount_Recipe_Makes": { "amount": 2.5, "unit": "gal" },
+    "prep_time": null,
+    "cook_time": null,
+    "instructions": null,
+    "category": "Condiment",
+    "ingredients": {
+      "lobster sensation": { "amount": 64.00, "unit": "oz"      },
+      "heavy cream":       { "amount":  6.00, "unit": "qt"      },
+      "roasted red pepper":{ "amount":  1.00, "unit": "can"     },
+      "sherry":            { "amount":  0.33, "unit": "bottle"  },
+      "lobster base":      { "amount":  0.50, "unit": "container" },
+      "seafood base":      { "amount":  0.50, "unit": "container" },
+      "corn starch":       { "amount":  0.75, "unit": "box"     },
+      "sarzonade":         { "amount":  1.00, "unit": "oz"      },
+      "liquid butter":     { "amount":  4.00, "unit": "oz"      }
+    }
+  },
+  {
+    "name": "Crab Cake",
+    "amount_Recipe_Makes": null,
+    "prep_time": null,
+    "cook_time": null,
+    "instructions": null,
+    "category": "Seafood",
+    "ingredients": {
+      "lump crab":                     { "amount":  8,  "unit": "cans"  },
+      "jumbo lump crab":               { "amount":  8,  "unit": "cans"  },
+      "eggs":                          { "amount": 12,  "unit": "each" },
+      "roasted red pepper":            { "amount":  1,  "unit": "can"   },
+      "mayo":                          { "amount": 40,  "unit": "oz"    },
+      "panko":                         { "amount":  1,  "unit": "lb"    },
+      "ital seasoned bread crumb":     { "amount":  2,  "unit": "lb"    },
+      "parsley":                       { "amount":  4,  "unit": "oz"  },
+      "salt":                          { "amount":  4,  "unit": "tbsp"  },
+      "pepper":                        { "amount":  3,  "unit": "tbsp"  },
+      "dry mustard":                   { "amount":  2,  "unit": "tbsp"  },
+      "worcestershire sauce":          { "amount":  4,  "unit": "oz"    }
+    }
+  },
+    {
+    "name": "Mushroom Swiss Burger",
+    "amount_Recipe_Makes": null,
+    "prep_time": null,
+    "cook_time": null,
+    "instructions": null,
+    "category": "Handhelds",
+    "ingredients": {
+      "roll":            { "amount": 1,   "unit": "each" },
+      "burger":          { "amount": 1,   "unit": "each" },
+      "bacon":           { "amount": 1,   "unit": "oz"   },
+      "mushroom":        { "amount": 2,   "unit": "oz"   },
+      "swiss chz":       { "amount": 2,   "unit": "oz"   },
+      "mayo":            { "amount": 1,   "unit": "oz"   },
+      "lettuce":         { "amount": 1,   "unit": "oz"   },
+      "tomato":          { "amount": 1.5, "unit": "oz"   },
+      "onion":           { "amount": 0.75,"unit": "oz"   },
+      "balsamic glaze":  { "amount": 0.5, "unit": "oz"   }
+    }
+  },
+  {
+    "name": "Jalapeno Burger",
+    "amount_Recipe_Makes": null,
+    "prep_time": null,
+    "cook_time": null,
+    "instructions": null,
+    "category": "Handhelds",
+    "ingredients": {
+      "roll":             { "amount": 1,   "unit": "each" },
+      "burger":           { "amount": 1,   "unit": "each" },
+      "bacon":            { "amount": 1,   "unit": "oz"   },
+      "jalapeno":         { "amount": 2,   "unit": "oz"   },
+      "american chz":     { "amount": 2,   "unit": "oz"   },
+      "red pepper flake": { "amount": 0.1, "unit": "oz"   },
+      "mayo":             { "amount": 1,   "unit": "oz"   },
+      "lettuce":          { "amount": 1,   "unit": "oz"   },
+      "tomato":           { "amount": 1.5, "unit": "oz"   },
+      "onion":            { "amount": 0.75,"unit": "oz"   }
+    }
+  },
+  {
+    "name": "Margherita Pizza",
+    "amount_Recipe_Makes": null,
+    "prep_time": null,
+    "cook_time": null,
+    "instructions": null,
+    "category": "Pizza",
+    "ingredients": {
+      "dough":             { "amount": "16 - 8", "unit": "oz"     },
+      "sauce":             { "amount": "8 - 4",  "unit": "oz"     },
+      "fresh mozzarella":  { "amount": "8 - 4",  "unit": "oz"     },
+      "basil":             { "amount": "6 - 3",  "unit": "leaves" }
+    }
+  },
+  {
+    "name": "Rustico Pizza",
+    "amount_Recipe_Makes": null,
+    "prep_time": null,
+    "cook_time": null,
+    "instructions": null,
+    "category": "Pizza",
+    "ingredients": {
+      "dough":              { "amount": "16 - 8", "unit": "oz" },
+      "sausage":            { "amount": "8 - 4",  "unit": "oz" },
+      "pizza sauce":        { "amount": "8 - 4",  "unit": "oz" },
+      "roasted red pepper": { "amount": "4 - 2",  "unit": "oz" },
+      "mozz cheese":        { "amount": "16 - 8", "unit": "oz" }
+    }
+  },
+  {
+    "name": "Mac & Chz",
+    "amount_Recipe_Makes": null,
+    "prep_time": null,
+    "cook_time": null,
+    "instructions": null,
+    "category": "Pasta",
+    "ingredients": {
+      "butter oil":    { "amount": 1, "unit": "oz" },
+      "penne":         { "amount": 8, "unit": "oz" },
+      "white cheddar": { "amount": 4, "unit": "oz" },
+      "heavy cream":   { "amount": 6, "unit": "oz" }
+    }
+  },
+  {
+    "name": "Salmon",
+    "amount_Recipe_Makes": null,
+    "prep_time": null,
+    "cook_time": null,
+    "instructions": null,
+    "category": "Seafood",
+    "ingredients": {
+      "butter oil": { "amount": 1, "unit": "oz" },
+      "salmon":     { "amount": 6, "unit": "oz" },
+      "white wine": { "amount": 1, "unit": "oz" },
+      "chix stock": { "amount": 1, "unit": "oz" }
+    }
+  },
+{
+  "name": "Mashed Potatoes",
+  "amount_Recipe_Makes": { "amount": 48, "unit": "servings", "converted": { "amount": 20, "unit": "lb" } },
+  "prep_time": null,
+  "cook_time": null,
+  "instructions": null,
+  "category": "Vegetable",
+  "ingredients": {}
+},
+  {
+    "name": "Cole Slaw",
+    "amount_Recipe_Makes": { "amount": 18, "unit": "lb"},
+    "prep_time": null,
+    "cook_time": null,
+    "instructions": null,
+    "category": "Vegetable",
+    "ingredients": {
+      "cabbage":        { "amount": 10,  "unit": "lb"  },
+      "carrot":         { "amount": 3,   "unit": "lb"  },
+      "pineapple":      { "amount": 20,  "unit": "oz"  },
+      "mayo":           { "amount": 0.5, "unit": "gal" },
+      "white vinegar":  { "amount": 12,  "unit": "oz"  },
+      "sugar":          { "amount": 12,  "unit": "oz"  }
+    }
+  },
+  {
+    "name": "Mild Sauce",
+    "amount_Recipe_Makes": { "amount": 2.2, "unit": "gal" },
+    "prep_time": null,
+    "cook_time": null,
+    "instructions": null,
+    "category": "Condiment",
+    "ingredients": {
+      "hot sauce":          { "amount": 2.0, "unit": "gal" },
+      "butter":             { "amount": 4,   "unit": "lb"  },
+      "crushed red pepper": { "amount": 1,   "unit": "oz"  },
+      "thyme":              { "amount": 1,   "unit": "oz"  },
+      "granulated garlic":  { "amount": 1,   "unit": "oz"  },
+      "onion powder":       { "amount": 1,   "unit": "oz"  },
+      "oregano":            { "amount": 1,   "unit": "oz"  }
+    }
+  },
+  {
+    "name": "Pine Creek Sauce",
+    "amount_Recipe_Makes": { "amount": 2.5, "unit": "gal" },
+    "prep_time": null,
+    "cook_time": null,
+    "instructions": null,
+    "category": "Condiment",
+    "ingredients": {
+      "hot sauce":      { "amount": 1.0, "unit": "gal" },
+      "bbq":             { "amount": 0.5, "unit": "gal" },
+      "golden bbq":      { "amount": 0.5, "unit": "gal" },
+      "butter":          { "amount": 0.5,  "unit": "lb"  },
+      "orange juice":    { "amount": 20,  "unit": "oz"  },
+      "garlic":          { "amount": 12,   "unit": "oz"  },
+      "cayenne pepper":  { "amount": 1,   "unit": "oz"  }
+    }
+  },
+  {
+    "name": "Nachos",
+    "amount_Recipe_Makes": null,
+    "prep_time": null,
+    "cook_time": null,
+    "instructions": null,
+    "category": "Entree",
+    "ingredients": {
+      "tortilla chips": { "amount": 8,   "unit": "oz" },
+      "beer cheese":    { "amount": 6,   "unit": "oz" },
+      "ground beef":    { "amount": 4,   "unit": "oz" },
+      "lettuce":        { "amount": 1,   "unit": "oz" },
+      "tomato":         { "amount": 2,   "unit": "oz" },
+      "jalapeno":       { "amount": 2,   "unit": "oz" },
+      "onion":          { "amount": 1,   "unit": "oz" }
+    }
+  },
+  {
+    "name": "Inn Nachos",
+    "amount_Recipe_Makes": null,
+    "prep_time": null,
+    "cook_time": null,
+    "instructions": null,
+    "category": "Entree",
+    "ingredients": {
+      "tortilla chips":     { "amount":  8,   "unit": "oz" },
+      "beer cheese":        { "amount":  6,   "unit": "oz" },
+      "stk/chix":           { "amount":  6,   "unit": "oz" },
+      "pine creek sauce":   { "amount":  1.5, "unit": "oz" },
+      "ranch":              { "amount":  1.5, "unit": "oz" },
+      "onion":              { "amount":  1,   "unit": "oz" },
+      "jalapeno":           { "amount":  2,   "unit": "oz" }
+    }
+  },
+  {
+    "name": "Pizza Pasta",
+    "amount_Recipe_Makes": null,
+    "prep_time": null,
+    "cook_time": null,
+    "instructions": null,
+    "category": "Pasta",
+    "ingredients": {
+      "butter oil":       { "amount": 1.0, "unit": "oz" },
+      "pepperoni":        { "amount": 1.5, "unit": "oz" },
+      "sausage":          { "amount": 2.0, "unit": "oz" },
+      "mushroom":         { "amount": 1.5, "unit": "oz" },
+      "onion":            { "amount": 1.0, "unit": "oz" },
+      "swt pepper":       { "amount": 2.0, "unit": "oz" },
+      "marinara":         { "amount": 8.0, "unit": "oz" },
+      "shredded mozz":    { "amount": 2.0, "unit": "oz" },
+      "penne":            { "amount": 8.0, "unit": "oz" }
+    }
+  },
+  {
+    "name": "Spag w/ mtball",
+    "amount_Recipe_Makes": null,
+    "prep_time": null,
+    "cook_time": null,
+    "instructions": null,
+    "category": "Pasta",
+    "ingredients": {
+      "meatball":    { "amount": 2,   "unit": "each" },
+      "spaghetti":   { "amount": 8.0, "unit": "oz"   },
+      "marinara":    { "amount": 8.0, "unit": "oz"   },
+      "shaved parm": { "amount": 1.0, "unit": "oz"   }
+    }
+  },
+  {
+    "name": "Ravioli Al Forno",
+    "amount_Recipe_Makes": null,
+    "prep_time": null,
+    "cook_time": null,
+    "instructions": null,
+    "category": "Pasta",
+    "ingredients": {
+      "ground meat":        { "amount": 3.40, "unit": "oz" },
+      "tomato sauce":       { "amount": 9.60, "unit": "oz" },
+      "mozzarella cheese":  { "amount": 2.50, "unit": "oz" },
+      "cheese ravioli":     { "amount": 4.50, "unit": "oz" }
+    }
+  },
+  {
+    "name": "Cheese Ravioli",
+    "amount_Recipe_Makes": null,
+    "prep_time": null,
+    "cook_time": null,
+    "instructions": null,
+    "category": "Pasta",
+    "ingredients": {
+      "tomato sauce":      { "amount": 9.60, "unit": "oz" },
+      "mozzarella cheese": { "amount": 2.50, "unit": "oz" },
+      "cheese ravioli":    { "amount": 4.50, "unit": "oz" }
+    }
+  },
+  {
+    "name": "Red/Marinara Sauce",
+    "amount_Recipe_Makes": { "amount": 20, "unit": "gal" },
+    "prep_time": null,
+    "cook_time": null,
+    "instructions": null,
+    "category": "Condiment",
+    "ingredients": {
+      "carrot":               { "amount": 15,   "unit": "lb"        },
+      "onion":                { "amount": 20,   "unit": "lb"        },
+      "celery":               { "amount": 1,    "unit": "stalk"     },
+      "garlic":               { "amount": 1,    "unit": "lb"        },
+      "butter":               { "amount": 6,    "unit": "lb"        },
+      "10% oil":              { "amount": 16,   "unit": "oz"        },
+      "olive oil":            { "amount": 16,   "unit": "oz"        },
+      "tomato paste":         { "amount": 1,    "unit": "container" },
+      "alta cucina tomato":   { "amount": 3,    "unit": "cans"      },
+      "crushed red pepper":   { "amount": 2,    "unit": "oz"        },
+      "kosher salt":          { "amount": 4,    "unit": "oz"        },
+      "fresh black pepper":   { "amount": 4,    "unit": "oz"        },
+      "fresh parsley":        { "amount": 8,    "unit": "oz"        },
+      "basil":                { "amount": 8,    "unit": "oz"        },
+      "grated parm":          { "amount": 2.5,  "unit": "lb"        },
+      "beef base":            { "amount": 8,    "unit": "oz"        }
+    }
+  },
+  {
+    "name": "Hot Sauce",
+    "amount_Recipe_Makes": { "amount": 2.2, "unit": "gal" },
+    "prep_time": null,
+    "cook_time": null,
+    "instructions": null,
+    "category": "Condiment",
+    "ingredients": {
+      "hot sauce":          { "amount": 2.0, "unit": "gal" },
+      "butter":             { "amount": 2.0, "unit": "lb"  },
+      "crushed red pepper": { "amount": 2,   "unit": "oz"  },
+      "granulated garlic":  { "amount": 1,   "unit": "oz"  },
+      "dried thyme":        { "amount": 1,   "unit": "oz"  },
+      "onion powder":       { "amount": 1,   "unit": "oz"  },
+      "oregano":            { "amount": 1,   "unit": "oz"  }
+    }
+  },
+  {
+    "name": "Ranch",
+    "amount_Recipe_Makes": { "amount": 262, "unit": "oz" },
+    "prep_time": null,
+    "cook_time": null,
+    "instructions": null,
+    "category": "Condiment",
+    "ingredients": {
+      "mayo":       { "amount": 1,  "unit": "gal"     },
+      "buttermilk": { "amount": 4, "unit": "qt"      },
+      "ranch mix packets":  { "amount": 2,  "unit": "each" }
+    }
+  },
+  {
+    "name": "Bleu Cheese",
+    "amount_Recipe_Makes": { "amount": 240, "unit": "oz" },
+    "prep_time": null,
+    "cook_time": null,
+    "instructions": null,
+    "category": "Condiment",
+    "ingredients": {
+      "sour cream":      { "amount": 1,    "unit": "container" },
+      "mayo":            { "amount": 1,    "unit": "container" },
+      "blue cheese":     { "amount": 3.75, "unit": "lb"        },
+      "black pepper":    { "amount": 4,    "unit": "oz"        },
+      "salt":            { "amount": 2,    "unit": "oz"        },
+      "dry mustard":     { "amount": 1,    "unit": "oz"        },
+      "garlic powder":   { "amount": 2,    "unit": "oz"        },
+      "worcestershire":  { "amount": 4,    "unit": "oz"        }
+    }
+  },
+  {
+    "name": "Ricotta Mix",
+    "amount_Recipe_Makes": { "amount": 60, "unit": "oz" },
+    "prep_time": null,
+    "cook_time": null,
+    "instructions": null,
+    "category": "Condiment",
+    "ingredients": {
+      "ricotta":            { "amount": 1,    "unit": "container" },
+      "egg":                { "amount": 1,    "unit": "each"      },
+      "grated parmesan":    { "amount": 8,    "unit": "oz"        },
+      "garlic powder":      { "amount": 0.75, "unit": "oz"        },
+      "dried parsley":      { "amount": 2,    "unit": "oz"        }
+    }
+  },
+  {
+    "name": "Pizza Sauce",
+    "amount_Recipe_Makes": { "amount": 297, "unit": "oz" },
+    "prep_time": null,
+    "cook_time": null,
+    "instructions": null,
+    "category": "Condiment",
+    "ingredients": {
+      "alta cucina tomato cans": { "amount": 3, "unit": "each" },
+      "10% oil":            { "amount": 4, "unit": "oz"   },
+      "garlic salt":        { "amount": 2, "unit": "oz"   },
+      "pepper":             { "amount": 2, "unit": "oz"   },
+      "fresh basil":        { "amount": 8, "unit": "oz"   },
+      "oregano":            { "amount": 1, "unit": "oz"   }
+    }
+  },
+  {
+    "name": "Rack of Ribs",
+    "amount_Recipe_Makes": null,
+    "prep_time": null,
+    "cook_time": null,
+    "instructions": null,
+    "category": "Ribs",
+    "ingredients": {
+      "ribs":          { "amount": 1, "unit": "container" },
+      "salt":          { "amount": 4, "unit": "oz"   },
+      "pepper":        { "amount": 4, "unit": "oz"   },
+      "paprika":       { "amount": 8, "unit": "oz"   },
+      "garlic powder": { "amount": 2, "unit": "oz"   },
+      "onion powder":  { "amount": 2, "unit": "oz"   }
+    }
+  },
+  {
+    "name": "Smokehouse Burger",
+    "amount_Recipe_Makes": null,
+    "prep_time": null,
+    "cook_time": null,
+    "instructions": null,
+    "category": "Handhelds",
+    "ingredients": {
+      "roll":            { "amount": 1,    "unit": "each" },
+      "burger":          { "amount": 1,    "unit": "each" },
+      "bacon":           { "amount": 1,    "unit": "oz"   },
+      "cheddar cheese":  { "amount": 2,    "unit": "oz"   },
+      "onion ring":      { "amount": 2,    "unit": "oz"   },
+      "bbq sauce":       { "amount": 2,    "unit": "oz"   },
+      "mayo":            { "amount": 1,    "unit": "oz"   },
+      "lettuce":         { "amount": 1,    "unit": "oz"   },
+      "tomato":          { "amount": 1.5,  "unit": "oz"   }
+    }
+  },
+  {
+    "name": "Bacon Blue Burger",
+    "amount_Recipe_Makes": null,
+    "prep_time": null,
+    "cook_time": null,
+    "instructions": null,
+    "category": "Handhelds",
+    "ingredients": {
+      "roll":             { "amount": 1,    "unit": "each" },
+      "burger":           { "amount": 1,    "unit": "each" },
+      "bacon":            { "amount": 1,    "unit": "oz"   },
+      "blue cheese":      { "amount": 3,    "unit": "oz"   },
+      "A1 steak sauce":   { "amount": 1,    "unit": "oz"   },
+      "mayo":             { "amount": 1,    "unit": "oz"   },
+      "lettuce":          { "amount": 1,    "unit": "oz"   },
+      "tomato":           { "amount": 1.5,  "unit": "oz"   },
+      "onion":            { "amount": 0.75, "unit": "oz"   }
+    }
+  },
+  {
+    "name": "Supreme Pizza",
+    "amount_Recipe_Makes": null,
+    "prep_time": null,
+    "cook_time": null,
+    "instructions": null,
+    "category": "Pizza",
+    "ingredients": {
+      "dough":        { "amount": "16 - 8", "unit": "oz" },
+      "sauce":        { "amount": "8 - 4",  "unit": "oz" },
+      "mozz cheese":  { "amount": "16 - 8", "unit": "oz" },
+      "pepperoni":    { "amount": "4 - 2",  "unit": "oz" },
+      "sausage":      { "amount": "4 - 2",  "unit": "oz" },
+      "mushroom":     { "amount": "4 - 2",  "unit": "oz" },
+      "onion":        { "amount": "4 - 2",  "unit": "oz" },
+      "sweet pepper": { "amount": "4 - 2",  "unit": "oz" }
+    }
+  },
+  {
+    "name": "Buff Chix Pizza",
+    "amount_Recipe_Makes": null,
+    "prep_time": null,
+    "cook_time": null,
+    "instructions": null,
+    "category": "Pizza",
+    "ingredients": {
+      "dough":                 { "amount": "16 - 8",  "unit": "oz"   },
+      "chicken steak patty":   { "amount": "3 - 1.5", "unit": "each" },
+      "ranch":                 { "amount": "8 - 4",   "unit": "oz"   },
+      "blue cheese":           { "amount": "8 - 4",   "unit": "oz"   },
+      "hot/mild sauce":        { "amount": "6 - 3",   "unit": "oz"   },
+      "mozz cheese":           { "amount": "16 - 8",  "unit": "oz"   }
+    }
+  },
+  {
+    "name": "Stromboli",
+    "amount_Recipe_Makes": null,
+    "prep_time": null,
+    "cook_time": null,
+    "instructions": null,
+    "category": "Handhelds",
+    "ingredients": {
+      "dough":        { "amount": "16 - 8", "unit": "oz" },
+      "mozz cheese":  { "amount": "16 - 8", "unit": "oz" },
+      "pepperoni":    { "amount": "8 - 4",  "unit": "oz" },
+      "ham":          { "amount": "8 - 4",  "unit": "oz" },
+      "sausage":      { "amount": "6 - 3",  "unit": "oz" },
+      "mushroom":     { "amount": "4 - 2",  "unit": "oz" },
+      "onion":        { "amount": "4 - 2",  "unit": "oz" },
+      "sweet pepper": { "amount": "4 - 2",  "unit": "oz" }
+    }
+  },
+  {
+    "name": "Philly Stromboli",
+    "amount_Recipe_Makes": null,
+    "prep_time": null,
+    "cook_time": null,
+    "instructions": null,
+    "category": "Handhelds",
+    "ingredients": {
+      "dough":               { "amount": "16 - 8",  "unit": "oz"   },
+      "mozz cheese":         { "amount": "16 - 8",  "unit": "oz"   },
+      "steak/chix patty":    { "amount": "3 - 1.5", "unit": "each" },
+      "mushroom":            { "amount": "4 - 2",   "unit": "oz"   },
+      "onion":               { "amount": "4 - 2",   "unit": "oz"   },
+      "sweet pepper":        { "amount": "4 - 2",   "unit": "oz"   }
+    }
+  },
+  {
+    "name": "Sauteed Veggie Salad",
+    "amount_Recipe_Makes": null,
+    "prep_time": null,
+    "cook_time": null,
+    "instructions": null,
+    "category": "Vegetable",
+    "ingredients": {
+      "lettuce mix":       { "amount": 6,    "unit": "oz"   },
+      "mushroom":          { "amount": 2,    "unit": "oz"   },
+      "onion":             { "amount": 2,    "unit": "oz"   },
+      "sweet pepper":      { "amount": 2,    "unit": "oz"   },
+      "roasted red pepper":{ "amount": 1,    "unit": "oz"   },
+      "tomato":            { "amount": 2,    "unit": "oz"   },
+      "fresh mozz cheese": { "amount": 4,    "unit": "oz"   },
+      "balsamic glaze":    { "amount": 1,    "unit": "oz"   },
+      "stuffed pepper":    { "amount": 1,    "unit": "each" }
+    }
+  },
+  {
+    "name": "Grilled Caesar Salad",
+    "amount_Recipe_Makes": null,
+    "prep_time": null,
+    "cook_time": null,
+    "instructions": null,
+    "category": "Vegetable",
+    "ingredients": {
+      "romaine":   { "amount": 1,    "unit": "each" },
+      "bacon":     { "amount": 3,    "unit": "oz"   },
+      "tomato":    { "amount": 2,    "unit": "oz"   },
+      "parmesan":  { "amount": 2,    "unit": "oz"   },
+      "croutons":  { "amount": 2,    "unit": "oz"   }
+    }
+  },{
+    "name": "Seafood Mac & Cheese",
+    "amount_Recipe_Makes": null,
+    "prep_time": null,
+    "cook_time": null,
+    "instructions": null,
+    "category": "Pasta",
+    "ingredients": {
+      "shrimp":               { "amount": 2.86,  "unit": "oz" },
+      "scallops":             { "amount": 2.50,  "unit": "oz" },
+      "broccoli":             { "amount": 2.95,  "unit": "oz" },
+      "heavy cream":          { "amount": 10.20, "unit": "oz" },
+      "white cheddar":        { "amount": 2.50,  "unit": "oz" },
+      "shaved garlic":        { "amount": 0.70,  "unit": "oz" },
+      "sazonade and salt mix":{ "amount": 0.15,  "unit": "oz" }
+    }
+  },
+  {
+    "name": "Spaghetti and Meatballs",
+    "amount_Recipe_Makes": null,
+    "prep_time": null,
+    "cook_time": null,
+    "instructions": null,
+    "category": "Pasta",
+    "ingredients": {
+      "meatballs":               { "amount": 9.95, "unit": "oz" },
+      "tomato sauce":            { "amount": 9.60, "unit": "oz" },
+      "shaved parmesan cheese":  { "amount": 1.70, "unit": "oz" },
+      "chopped parsley":         { "amount": 0.50, "unit": "oz" },
+      "spaghetti":               { "amount": 7.55, "unit": "oz" }
+    }
+  },
+  {
+    "name": "Spaghetti in Meat Sauce",
+    "amount_Recipe_Makes": null,
+    "prep_time": null,
+    "cook_time": null,
+    "instructions": null,
+    "category": "Pasta",
+    "ingredients": {
+      "tomato sauce":           { "amount": 9.60, "unit": "oz" },
+      "ground meat":            { "amount": 3.40, "unit": "oz" },
+      "spaghetti":              { "amount": 7.55, "unit": "oz" },
+      "shaved parmesan cheese": { "amount": 1.70, "unit": "oz" }
+    }
+  },
+  {
+    "name": "Shrimp & Scallops",
+    "amount_Recipe_Makes": null,
+    "prep_time": null,
+    "cook_time": null,
+    "instructions": null,
+    "category": "Seafood",
+    "ingredients": {
+      "butter oil":    { "amount": 1.00, "unit": "oz" },
+      "shrimp":        { "amount": 3.00, "unit": "oz" },
+      "scallops":      { "amount": 3.00, "unit": "oz" },
+      "white wine":    { "amount": 2.00, "unit": "oz" },
+      "chix stock":    { "amount": 2.00, "unit": "oz" },
+      "lemon":         { "amount": 1.00, "unit": "oz" },
+      "thyme":         { "amount": 0.20, "unit": "oz" },
+      "parsley":       { "amount": 0.10, "unit": "oz" },
+      "finish butter": { "amount": 1.00, "unit": "oz" },
+      "rice/penne":    { "amount": "8 - 8", "unit": "oz" }
+    }
+  },
+  {
+    "name": "Crab Cakes",
+    "amount_Recipe_Makes": null,
+    "prep_time": null,
+    "cook_time": null,
+    "instructions": null,
+    "category": "Seafood",
+    "ingredients": {
+      "butter oil":  { "amount": 1.00, "unit": "oz" },
+      "crab cakes": { "amount": 2, "unit": "each", "converted": { "amount": 8, "unit": "oz" } },
+      "lemon slice": { "amount": 0.50, "unit": "oz" }
+    }
+  },
+  {
+    "name": "Side Penne",
+    "amount_Recipe_Makes": null,
+    "prep_time": null,
+    "cook_time": null,
+    "instructions": null,
+    "category": "Pasta",
+    "ingredients": {
+      "penne":         { "amount": 6.00, "unit": "oz" },
+      "marinara":      { "amount": 4.00, "unit": "oz" },
+      "shaved parmesan": { "amount": 1.00, "unit": "oz" }
+    }
+  },
+  {
+    "name": "Side Spaghetti",
+    "amount_Recipe_Makes": null,
+    "prep_time": null,
+    "cook_time": null,
+    "instructions": null,
+    "category": "Pasta",
+    "ingredients": {
+      "spaghetti":     { "amount": 6.00, "unit": "oz" },
+      "marinara":      { "amount": 4.00, "unit": "oz" },
+      "shaved parmesan": { "amount": 1.00, "unit": "oz" }
+    }
+  },
+  {
+    "name": "Broccoli",
+    "amount_Recipe_Makes": { "amount": 4,    "unit": "oz" },
+    "prep_time": null,
+    "cook_time": null,
+    "instructions": null,
+    "category": null,
+    "ingredients": {}
+  },
+  {
+    "name": "Rice",
+    "amount_Recipe_Makes": { "amount": 6,    "unit": "oz" },
+    "prep_time": null,
+    "cook_time": null,
+    "instructions": null,
+    "category": null,
+    "ingredients": {}
+  },
+  {
+    "name": "Baked Potato",
+    "amount_Recipe_Makes": { "amount": 6,    "unit": "oz" },
+    "prep_time": null,
+    "cook_time": null,
+    "instructions": null,
+    "category": null,
+    "ingredients": {}
+  },
+  {
+    "name": "Mashed Potato",
+    "amount_Recipe_Makes": { "amount": 8,    "unit": "oz" },
+    "prep_time": null,
+    "cook_time": null,
+    "instructions": null,
+    "category": null,
+    "ingredients": {}
+  },
+  {
+    "name": "Fries",
+    "amount_Recipe_Makes": { "amount": 6,    "unit": "oz" },
+    "prep_time": null,
+    "cook_time": null,
+    "instructions": null,
+    "category": null,
+    "ingredients": {}
+  },
+  {
+    "name": "Chips",
+    "amount_Recipe_Makes": { "amount": 2.5,  "unit": "oz" },
+    "prep_time": null,
+    "cook_time": null,
+    "instructions": null,
+    "category": null,
+    "ingredients": {}
+  },
+  {
+    "name": "Mushroom & Onion",
+    "amount_Recipe_Makes": { "amount": 8,    "unit": "oz" },
+    "prep_time": null,
+    "cook_time": null,
+    "instructions": null,
+    "category": null,
+    "ingredients": {}
+  },
+  {
+    "name": "Cole Slaw",
+    "amount_Recipe_Makes": { "amount": 4,    "unit": "oz" },
+    "prep_time": null,
+    "cook_time": null,
+    "instructions": null,
+    "category": null,
+    "ingredients": {}
+  },
+ {
+  "name": "Side Salad",
+  "amount_Recipe_Makes": { "amount": 3,    "unit": "oz" },
+  "prep_time": null,
+  "cook_time": null,
+  "instructions": null,
+  "category": "Vegetable",
+  "ingredients": {
+    "lettuce mix":   { "amount": 3,   "unit": "oz" },
+    "cherry tomato": { "amount": 1,   "unit": "oz" },
+    "red onion":     { "amount": 1,   "unit": "oz" },
+    "cucumber":      { "amount": 1.5, "unit": "oz" }
+  }
+},
+{
+    "name": "White Pizza",
+    "amount_Recipe_Makes": null,
+    "prep_time": null,
+    "cook_time": null,
+    "instructions": null,
+    "category": "Pizza",
+    "ingredients": {
+      "dough":              { "amount": "16 - 8", "unit": "oz" },
+      "ricotta mix":        { "amount": "8 - 4",  "unit": "oz" },
+      "broccoli":           { "amount": "4 - 2",  "unit": "oz" },
+      "garlic":             { "amount": "1 - 0.5","unit": "oz" },
+      "tomato":             { "amount": "4 - 2",  "unit": "oz" },
+      "mozz chz":           { "amount": "16 - 8", "unit": "oz" },
+      "roasted red pepper": { "amount": "2 - 1",  "unit": "oz" }
+    }
+  },
+  {
+    "name": "Meat Lover Pizza",
+    "amount_Recipe_Makes": null,
+    "prep_time": null,
+    "cook_time": null,
+    "instructions": null,
+    "category": "Pizza",
+    "ingredients": {
+      "dough":      { "amount": "16 - 8", "unit": "oz" },
+      "sauce":      { "amount": "8 - 4",  "unit": "oz" },
+      "pepperoni":  { "amount": "4 - 2",  "unit": "oz" },
+      "sausage":    { "amount": "4 - 2",  "unit": "oz" },
+      "ham":        { "amount": "4 - 2",  "unit": "oz" },
+      "bacon":      { "amount": "4 - 2",  "unit": "oz" },
+      "mozz chz":   { "amount": "16 - 8", "unit": "oz" }
+    }
+  }
+]
